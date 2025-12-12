@@ -1,0 +1,26 @@
+title: "Joan Damiens"
+description: "Demographer | Postdoctoral researcher (University of Helsinki)"
+theme: minima
+
+# Edit this to match your GitHub Pages URL
+url: "https://joanjdamiens.github.io"
+
+author:
+  name: "Joan Damiens"
+  email: "joan.damiens@helsinki.fi"
+
+# Pages shown in the top navigation (minima theme)
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - talks.md
+  - service.md
+  - contact.md
+
+# Optional social links (minima will show icons in the footer)
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/joanjdamiens" }
+    - { platform: orcid,   user_url: "https://orcid.org/0000-0001-9667-5413" }
