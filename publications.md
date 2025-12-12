@@ -18,5 +18,3 @@ permalink: /publications/
 - Schnor, C., Damiens, J., Fadel, L., Rees, A., & Zilincikova, Z. (2023). Family structure and proximity to kin during childhood. *Démographie et Société*, 32.  
 - Bourguignon, M., Damiens, J., Doignon, Y., Eggerickx, T., Fontaine, S., Plavsic, A., Rees, A., Rizzi, E., Sanderson, J.-P., & Schlüter, B.-S. (2022). Variations spatiales et sociodémographiques de mortalité de 2020–2021 en Belgique. *Démographie et Société*, 27.  
 - Bourguignon, M., Damiens, J., Doignon, Y., Eggerickx, T., Fontaine, S., Lusyne, P., Plavsic, A., & Sanderson, J.-P. (2020). Surmortalité liée à la COVID‑19 en Belgique: variations spatiales et socio‑démographiques. *Démographie et Société*, 17.  
-
-> If you have reproducible materials for specific papers, you can add GitHub links next to the corresponding reference (e.g., “Code & data”).
