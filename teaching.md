@@ -14,6 +14,6 @@ permalink: /teaching/
 ## Supervision / mentoring
 - **Volunteer mentor**, Lumière Foundation (since 2025) — mentoring undergraduates writing their first scientific paper.
 
-## Master’s theses evaluation (selected)
+## Master’s theses evaluation
 - 2025 — UCLouvain (SPED): COVID‑19 restrictive measures and older adults’ psychological wellbeing (Belgium/France).  
 - 2024 — University of Helsinki: demographic transitions in China and South Korea.
