@@ -4,8 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Teaching (selected)
-- **Family and inequalities**, University of Helsinki (since 2025) — sessions on horizontal inequalities within families; family composition and mental health; essay evaluation.  
+## Teaching
+- **Family and inequalities**, University of Helsinki (since 2025) — sessions on horizontal inequalities within families; essay evaluation.  
 - **Population health and health inequalities (SOSK‑510)**, University of Helsinki (since 2024) — sessions on reproductive/sexual health and mental health; essay evaluation.  
 - **Population Projections (LDEMO2220)**, UCLouvain (2023–2024) — practical work; teamwork supervision; essays.  
 - **Demographic questions and challenges in the 21st century (LSPED1214)**, UCLouvain (2020–2022) — sessions on social demography and mental health inequalities; MCQ evaluation.  
