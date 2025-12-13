@@ -24,3 +24,9 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/joanjdamiens" }
     - { platform: orcid,   user_url: "https://orcid.org/0000-0001-9667-5413" }
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
